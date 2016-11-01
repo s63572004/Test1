@@ -1,5 +1,10 @@
 1111
 222
 333
+<<<<<<< HEAD
 Test for Feature Branches
 The second Test
+=======
+Warning: this is Release test, and the last one is develop
+The second test
+>>>>>>> release/Test_release
