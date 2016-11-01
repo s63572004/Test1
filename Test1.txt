@@ -1,5 +1,18 @@
 1111
 222
 333
+<<<<<<< HEAD
 Warning: this is Release test, and the last one is develop
 The second test
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+444
+999999999999
+>>>>>>> origin/J2
+=======
+jiojoi
+>>>>>>> origin/J6
+>>>>>>> J4
